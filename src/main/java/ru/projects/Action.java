@@ -2,15 +2,15 @@ package ru.projects;
 
 public interface Action {
 
-    public void showInfo();
+    void showInfo();
 
-    public void eat();
+    void eat();
 
-    public void makeSound();
+    void makeSound();
 
-    public void ableToMove();
+    void ableToMove();
 
-    public void ableToSwim();
+    void ableToSwim();
 
 }
 
